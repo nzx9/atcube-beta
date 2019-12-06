@@ -16,4 +16,5 @@ function send() {
     date: Date.now(),
     body: inpInterface.value
   });
+  inpInterface.value = "";
 }
