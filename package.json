@@ -4,7 +4,7 @@
   "description": "atcube",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "author": "Navindu Dananga",
   "license": "MIT",
