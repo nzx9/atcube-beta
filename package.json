@@ -1,16 +1,15 @@
 {
-  "name": "atcube",
-  "version": "0.0.1-beta",
-  "description": "atcube",
+  "name": "adv_cube_server",
+  "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "node server.js"
   },
-  "author": "Navindu Dananga",
+  "author": "Navindu",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^2.3.0",
-    "typescript": "^3.6.4"
+    "websocket": "^1.0.31",
+    "ws": "^7.2.1"
   }
 }
