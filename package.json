@@ -11,7 +11,7 @@
   "dependencies": {
     "@angular/cli": "^8.3.20",
     "express": "^4.17.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "typescript": "^3.6.4"
   }
 }
